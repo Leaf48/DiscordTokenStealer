@@ -1,2 +1,2 @@
 # DiscordTokenStealer
-Stole your token 
+It Steals Someone's Token
